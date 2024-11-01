@@ -69141,7 +69141,7 @@ $1(a){var s=document.createElement("iframe"),r=s.style
 r.width="100%"
 r=s.style
 r.height="100%"
-s.src="/mondian/assets/html/map.html"
+s.src="/mondian/assets/assets/html/map.html"
 r=s.style
 r.border="none"
 return s},
